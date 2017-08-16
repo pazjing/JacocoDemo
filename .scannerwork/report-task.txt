@@ -1,0 +1,5 @@
+projectKey=JacocoDemo
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/JacocoDemo
+ceTaskId=AV3oVYG-6xlUzF3WS2Ty
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV3oVYG-6xlUzF3WS2Ty
